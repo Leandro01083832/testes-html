@@ -1,0 +1,22 @@
+#formulario
+{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+input{
+    border-radius: 30px;
+}
+
+textarea{
+    height: 300px;
+    width: 70%;
+}
+
+fieldset{
+    width: 40%;
+    margin-left: 25%;
+}
